@@ -54,16 +54,9 @@ const VIDEOS = [
     thumbnail: "https://img.youtube.com/vi/ScMzIvxBSi4/hqdefault.jpg",
     youtubeId: "ScMzIvxBSi4",
   },
+
   {
-    id: 4,
-    title: "Economy Update",
-    category: "Business",
-    duration: "2:40",
-    thumbnail: "https://img.youtube.com/vi/aqz-KE-bpKQ/hqdefault.jpg",
-    youtubeId: "aqz-KE-bpKQ",
-  },
-  {
-    id: 5,
+    id: 7,
     title: "World Headlines",
     category: "World",
     duration: "4:12",
@@ -71,7 +64,7 @@ const VIDEOS = [
     youtubeId: "ysz5S6PUM-U",
   },
   {
-    id: 6,
+    id: 8,
     title: "Tech Bulletin",
     category: "Technology",
     duration: "2:22",
@@ -79,7 +72,7 @@ const VIDEOS = [
     youtubeId: "ScMzIvxBSi4",
   },
   {
-    id: 4,
+    id: 9,
     title: "Economy Update",
     category: "Business",
     duration: "2:40",
@@ -87,7 +80,7 @@ const VIDEOS = [
     youtubeId: "aqz-KE-bpKQ",
   },
   {
-    id: 5,
+    id: 10,
     title: "World Headlines",
     category: "World",
     duration: "4:12",
@@ -95,7 +88,7 @@ const VIDEOS = [
     youtubeId: "ysz5S6PUM-U",
   },
   {
-    id: 6,
+    id: 11,
     title: "Tech Bulletin",
     category: "Technology",
     duration: "2:22",
@@ -103,7 +96,7 @@ const VIDEOS = [
     youtubeId: "ScMzIvxBSi4",
   },
   {
-    id: 4,
+    id: 12,
     title: "Economy Update",
     category: "Business",
     duration: "2:40",
@@ -111,7 +104,7 @@ const VIDEOS = [
     youtubeId: "aqz-KE-bpKQ",
   },
   {
-    id: 5,
+    id: 13,
     title: "World Headlines",
     category: "World",
     duration: "4:12",
@@ -119,7 +112,7 @@ const VIDEOS = [
     youtubeId: "ysz5S6PUM-U",
   },
   {
-    id: 6,
+    id: 14,
     title: "Tech Bulletin",
     category: "Technology",
     duration: "2:22",
@@ -127,7 +120,7 @@ const VIDEOS = [
     youtubeId: "ScMzIvxBSi4",
   },
   {
-    id: 4,
+    id: 15,
     title: "Economy Update",
     category: "Business",
     duration: "2:40",
@@ -135,7 +128,7 @@ const VIDEOS = [
     youtubeId: "aqz-KE-bpKQ",
   },
   {
-    id: 5,
+    id: 16,
     title: "World Headlines",
     category: "World",
     duration: "4:12",
@@ -143,7 +136,7 @@ const VIDEOS = [
     youtubeId: "ysz5S6PUM-U",
   },
   {
-    id: 6,
+    id: 17,
     title: "Tech Bulletin",
     category: "Technology",
     duration: "2:22",
@@ -151,7 +144,7 @@ const VIDEOS = [
     youtubeId: "ScMzIvxBSi4",
   },
   {
-    id: 4,
+    id: 18,
     title: "Economy Update",
     category: "Business",
     duration: "2:40",
@@ -159,7 +152,7 @@ const VIDEOS = [
     youtubeId: "aqz-KE-bpKQ",
   },
   {
-    id: 5,
+    id: 19,
     title: "World Headlines",
     category: "World",
     duration: "4:12",
@@ -167,7 +160,7 @@ const VIDEOS = [
     youtubeId: "ysz5S6PUM-U",
   },
   {
-    id: 6,
+    id: 20,
     title: "Tech Bulletin",
     category: "Technology",
     duration: "2:22",
@@ -175,7 +168,7 @@ const VIDEOS = [
     youtubeId: "ScMzIvxBSi4",
   },
   {
-    id: 4,
+    id: 21,
     title: "Economy Update",
     category: "Business",
     duration: "2:40",
@@ -183,7 +176,7 @@ const VIDEOS = [
     youtubeId: "aqz-KE-bpKQ",
   },
   {
-    id: 5,
+    id: 22,
     title: "World Headlines",
     category: "World",
     duration: "4:12",
@@ -191,7 +184,7 @@ const VIDEOS = [
     youtubeId: "ysz5S6PUM-U",
   },
   {
-    id: 6,
+    id: 23,
     title: "Tech Bulletin",
     category: "Technology",
     duration: "2:22",
@@ -199,7 +192,7 @@ const VIDEOS = [
     youtubeId: "ScMzIvxBSi4",
   },
   {
-    id: 4,
+    id: 24,
     title: "Economy Update",
     category: "Business",
     duration: "2:40",
@@ -207,7 +200,7 @@ const VIDEOS = [
     youtubeId: "aqz-KE-bpKQ",
   },
   {
-    id: 5,
+    id: 25,
     title: "World Headlines",
     category: "World",
     duration: "4:12",
@@ -215,7 +208,7 @@ const VIDEOS = [
     youtubeId: "ysz5S6PUM-U",
   },
   {
-    id: 6,
+    id: 26,
     title: "Tech Bulletin",
     category: "Technology",
     duration: "2:22",
@@ -223,7 +216,7 @@ const VIDEOS = [
     youtubeId: "ScMzIvxBSi4",
   },
   {
-    id: 4,
+    id: 27,
     title: "Economy Update",
     category: "Business",
     duration: "2:40",
@@ -231,7 +224,7 @@ const VIDEOS = [
     youtubeId: "aqz-KE-bpKQ",
   },
   {
-    id: 5,
+    id: 28,
     title: "World Headlines",
     category: "World",
     duration: "4:12",
@@ -239,13 +232,22 @@ const VIDEOS = [
     youtubeId: "ysz5S6PUM-U",
   },
   {
-    id: 6,
+    id: 29,
     title: "Tech Bulletin",
     category: "Technology",
     duration: "2:22",
     thumbnail: "https://img.youtube.com/vi/ScMzIvxBSi4/hqdefault.jpg",
     youtubeId: "ScMzIvxBSi4",
   },
+
+  {
+    id: 30,
+    title: "Economy Update",
+    category: "Business",
+    duration: "2:40",
+    thumbnail: "https://img.youtube.com/vi/aqz-KE-bpKQ/hqdefault.jpg",
+    youtubeId: "aqz-KE-bpKQ",
+  }
 ];
 
 export default function VideosPage() {
@@ -275,7 +277,7 @@ export default function VideosPage() {
     setIsPopupOpen(true);
   };
 
- 
+
 
   return (
     <div className="min-h-screen bg-slate-50 px-4 py-8 md:px-8">
