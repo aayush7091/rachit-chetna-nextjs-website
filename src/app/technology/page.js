@@ -5,8 +5,8 @@ import { useParams } from "next/navigation";
 import Link from "next/link";
 
 export default function Page() {
- 
-  const category = "technology" 
+
+  const category = "technology";
   const [newsData, setNewsData] = useState(null);
 
   useEffect(() => {
@@ -65,7 +65,7 @@ export default function Page() {
         {newsData.map((item) => (
           <Link
             key={item.slug}
-            href={`/article/${category}_${item.slug}`}  
+            href={`/article/${category}_${item.slug}`}
             className="group bg-white rounded-xl overflow-hidden shadow hover:shadow-lg transition"
           >
             <div className="overflow-hidden">
